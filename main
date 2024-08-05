@@ -1,10 +1,6 @@
-class main{
-      public static void main(strings args[]){
-      System.out.println("Hola mundo java!!!") + args[0]);
-      string a0 = args[0];
-      string a1 = args[1];
-      string a2 = args[2];
-      string a3 = args[3];
-
-      }
-{
+public class holamundo {
+ public static void main(string[]args){
+  int valor = 123;
+  system.out.printin("hola mundo" + valor);
+ }
+}
